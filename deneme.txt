@@ -1,9 +1,6 @@
 merhaba
 esad
 test
-<<<<<<< HEAD
 cakisma olacak
-
-=======
 deneme remote
->>>>>>> 84ff8bd1480868303295da74c0417a4ee8eb5445
+
